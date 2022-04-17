@@ -1,5 +1,5 @@
 # PyAnts
 An ant colony simulator written in Python
-<center>
+<p align="center">
 ![alt text](https://i.imgur.com/QsJONn1.png)
-</center>
+</p>
